@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "item": "Mosquete Charville 1777",
+        "local": "Musèe Napoleon",
+        "data": "1799-09-14",
+        "patrimonio": "PT001"
+    },
+    {
+        "id": "2",
+        "item": "Cuirasse de cavalerie",
+        "local": "Musèe Napoleon",
+        "data": "1813-10-15",
+        "patrimonio": "PT001"
+    },
+    {
+        "id": "3",
+        "item": "Bicorne d'infanterie",
+        "local": "Musèe Napoleon",
+        "data": "1803-12-08",
+        "patrimonio": "PT001"
+    }
+]
